@@ -1,0 +1,13 @@
+@import url(./reset.css) all;
+@import url(./head.css) all;
+@import url(./menu.css) all;
+@import url(./component/card.css);
+@import url(./container.css);
+@import url(./footer.css);
+@import url(./component/ads_banner.css) all;
+@import url(./main.css) all;
+@import url(./component/boton-go-top.css);
+@import url(./news.css);
+@import url(./component/card-news.css);
+@import url(./contact.css);
+@import url(./about.css);
